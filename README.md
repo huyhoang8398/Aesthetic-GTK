@@ -4,6 +4,10 @@ A fork of [_vinceliuice's_](https://github.com/vinceliuice) [**Colloid GTK Theme
 
 This GTK Theme is for [rxyhn-dotfiles](https://github.com/rxyhn/dotfiles) to go with the ***Aesthetic*** color scheme.
 
+## Issue
+
+This fork is not perfect if you find something that is out of place or isn't right please summit a [issue](https://github.com/Deathemonic/Aesthetic-GTK/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
+
 ## Requirements
 
 - GTK `>=3.20`
