@@ -2187,7 +2187,7 @@ StEntry StLabel.hint-text, .popup-menu .search-entry StLabel.hint-text {
 
 /* Top Bar */
 #panel {
-  background-color: #e5e5e5;
+  background-color: #f2f2f2;
   font-weight: bold;
   height: 32px;
   color: rgba(0, 0, 0, 0.6);
@@ -2198,7 +2198,7 @@ StEntry StLabel.hint-text, .popup-menu .search-entry StLabel.hint-text {
 
 #panel .panel-corner {
   -panel-corner-radius: 0;
-  -panel-corner-background-color: #e5e5e5;
+  -panel-corner-background-color: #f2f2f2;
   -panel-corner-border-width: 2px;
   -panel-corner-border-color: transparent;
   -panel-corner-opacity: 1;
@@ -3226,11 +3226,11 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 #dashtodockContainer.dashtodock #dash .dash-background {
-  background-color: #e5e5e5;
+  background-color: #f2f2f2;
 }
 
 #dashtodockContainer #dash .dash-background {
-  background-color: #e5e5e5;
+  background-color: #f2f2f2;
 }
 
 #dashtodockContainer .app-well-app-running-dot {
@@ -3288,11 +3288,11 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 #dashtodockContainer.opaque #dash .dash-background {
-  background-color: #e5e5e5;
+  background-color: #f2f2f2;
 }
 
 #dashtodockContainer.transparent #dash .dash-background {
-  background-color: rgba(229, 229, 229, 0.35);
+  background-color: rgba(242, 242, 242, 0.35);
 }
 
 #dashtodockContainer:overview #dash .dash-background {
@@ -3305,7 +3305,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 #dashtodockContainer.extended:overview #dash .dash-background, #dashtodockContainer.opaque.extended:overview #dash .dash-background, #dashtodockContainer.transparent.extended:overview #dash .dash-background {
-  background-color: #e5e5e5;
+  background-color: #f2f2f2;
 }
 
 #dashtodockContainer.running-dots .dash-item-container > StButton, #dashtodockContainer.dashtodock .dash-item-container > StButton {
